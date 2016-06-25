@@ -27,7 +27,9 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "^3.10.1",
+    "jshint": "2.9.2",
+    "jslint": "0.10.1",
+    "lodash": "3.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
